@@ -1,9 +1,6 @@
 # 🎓 Career Counseling System - Prolog Based
 
 > An intelligent expert system developed using Prolog that provides career guidance based on academic interests and strengths.
-
-🎥 **[Live Demo](https://drive.google.com/file/d/1cPEhR5Op4sTDrd42-L0-nfM3kdBA948g/view)**
-
 ---
 
 ## 📖 About the Project
@@ -55,4 +52,19 @@ swipl
 
 # 5. Run the program
 main.
+```
+---
+## 👩‍💻 Author: Sangeerani T
+```
+🧑‍💻 Python Developer 
+🌟 Passionate about Python and MERN stack
+```
+---
+## 📬 Contact
+```
+📧 Email: sangeerani24@gmail.com
+🐙 GitHub: Sangee-24
+```
+---
+
 
