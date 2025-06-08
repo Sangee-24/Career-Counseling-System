@@ -54,7 +54,7 @@ swipl
 main.
 ```
 ---
-## 👩‍💻 Author: Sangeerani T
+## 👩‍💻 Author:Sangeerani T
 ```
 🧑‍💻 Python Developer 
 🌟 Passionate about Python and MERN stack
